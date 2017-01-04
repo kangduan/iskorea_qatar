@@ -6,4 +6,5 @@ Rails.application.routes.draw do
 get 'home/index_qatar'
 get 'home/about_qatar'
 get 'home/product_qatar'
+
 end
