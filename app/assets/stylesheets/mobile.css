@@ -1084,20 +1084,32 @@
     margin-bottom: 10px;
     width: 100%;
   }
+  #manlift-section table{
+    font-size: 10px;
+  }
   #excavator-section .col-md-6{
     float: left;
     margin-bottom: 10px;
     width: 100%;
+  }
+  #excavator-section table{
+    font-size: 10px;
   }
   #dozer-section .col-md-6{
     float: left;
     margin-bottom: 10px;
     width: 100%;
   }
+  #dozer-section table{
+    font-size: 10px;
+  }
   #boom-section .col-md-6{
     float: left;
     margin-bottom: 10px;
     width: 100%;
+  }
+  #boom-section table{
+    font-size: 10px;
   }
 
 
