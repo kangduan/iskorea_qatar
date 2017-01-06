@@ -486,20 +486,32 @@
   margin-bottom: 10px;
   width: 50%;
 }
+#manlift-section table{
+  font-size: 12px;
+}
 #excavator-section .col-md-6{
   float: left;
   margin-bottom: 10px;
   width: 50%;
+}
+#excavator-section table{
+  font-size: 12px;
 }
 #dozer-section .col-md-6{
   float: left;
   margin-bottom: 10px;
   width: 50%;
 }
+#dozer-section table{
+  font-size: 12px;
+}
 #boom-section .col-md-6{
   float: left;
   margin-bottom: 10px;
   width: 50%;
+}
+#boom-section table{
+  font-size: 12px;
 }
 
 
@@ -858,20 +870,32 @@
     margin-bottom: 10px;
     width: 100%;
   }
+  #manlift-section table{
+    font-size: 14px;
+  }
   #excavator-section .col-md-6{
     float: left;
     margin-bottom: 10px;
     width: 100%;
+  }
+  #excavator-section table{
+    font-size: 14px;
   }
   #dozer-section .col-md-6{
     float: left;
     margin-bottom: 10px;
     width: 100%;
   }
+  #dozer-section table{
+    font-size: 14px;
+  }
   #boom-section .col-md-6{
     float: left;
     margin-bottom: 10px;
     width: 100%;
+  }
+  #boom-section table{
+    font-size: 14px;
   }
 
 
