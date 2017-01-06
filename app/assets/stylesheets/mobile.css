@@ -856,22 +856,22 @@
   #manlift-section .col-md-6{
     float: left;
     margin-bottom: 10px;
-    width: 50%;
+    width: 100%;
   }
   #excavator-section .col-md-6{
     float: left;
     margin-bottom: 10px;
-    width: 50%;
+    width: 100%;
   }
   #dozer-section .col-md-6{
     float: left;
     margin-bottom: 10px;
-    width: 50%;
+    width: 100%;
   }
   #boom-section .col-md-6{
     float: left;
     margin-bottom: 10px;
-    width: 50%;
+    width: 100%;
   }
 
 
