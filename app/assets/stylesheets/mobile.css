@@ -184,34 +184,26 @@
     }
 */
     /*product-page section*/
-    #car-section .col-md-6{
-      float: left;
-      margin-bottom: 10px;
-      width: 50%;
-    }
-    #pc-section .col-md-6{
-      float: left;
-      margin-bottom: 10px;
-      width: 50%;
-    }
-    #copy-section .col-md-6{
-      float: left;
-      margin-bottom: 10px;
-      width: 50%;
-    }
     #manlift-section .col-md-6{
       float: left;
       margin-bottom: 10px;
       width: 50%;
     }
-    #tmi-section .col-md-6{
+    #excavator-section .col-md-6{
       float: left;
       margin-bottom: 10px;
       width: 50%;
     }
-
-
-
+    #dozer-section .col-md-6{
+      float: left;
+      margin-bottom: 10px;
+      width: 50%;
+    }
+    #boom-section .col-md-6{
+      float: left;
+      margin-bottom: 10px;
+      width: 50%;
+    }
 }
 
 /* Medium Devices, Desktops */
@@ -489,31 +481,27 @@
 }
 
 /*product-page section*/
-#car-section .col-md-6{
-  float: left;
-  margin-bottom: 10px;
-  width: 50%;
-}
-#pc-section .col-md-6{
-  float: left;
-  margin-bottom: 10px;
-  width: 50%;
-}
-#copy-section .col-md-6{
-  float: left;
-  margin-bottom: 10px;
-  width: 50%;
-}
 #manlift-section .col-md-6{
   float: left;
   margin-bottom: 10px;
   width: 50%;
 }
-#tmi-section .col-md-6{
+#excavator-section .col-md-6{
   float: left;
   margin-bottom: 10px;
   width: 50%;
 }
+#dozer-section .col-md-6{
+  float: left;
+  margin-bottom: 10px;
+  width: 50%;
+}
+#boom-section .col-md-6{
+  float: left;
+  margin-bottom: 10px;
+  width: 50%;
+}
+
 
 }
 
@@ -523,7 +511,7 @@
  /*product hr*/
   hr {
 
-    width: 50%;
+    width: 100%;
   }
 
 	/* Navbar brand */
@@ -865,31 +853,27 @@
     font-size:27px;
   }
   /*product-page section*/
-  #car-section .col-md-6{
-    float: left;
-    margin-bottom: 10px;
-    width: 50%;
-  }
-  #pc-section .col-md-6{
-    float: left;
-    margin-bottom: 10px;
-    width: 50%;
-  }
-  #copy-section .col-md-6{
-    float: left;
-    margin-bottom: 10px;
-    width: 50%;
-  }
   #manlift-section .col-md-6{
     float: left;
     margin-bottom: 10px;
     width: 50%;
   }
-  #tmi-section .col-md-6{
+  #excavator-section .col-md-6{
     float: left;
     margin-bottom: 10px;
     width: 50%;
   }
+  #dozer-section .col-md-6{
+    float: left;
+    margin-bottom: 10px;
+    width: 50%;
+  }
+  #boom-section .col-md-6{
+    float: left;
+    margin-bottom: 10px;
+    width: 50%;
+  }
+
 
 }
 
@@ -1095,31 +1079,27 @@
   }
 
   /*product-page section*/
-  #car-section .col-md-6{
-    float: left;
-    margin-bottom: 10px;
-    width: 100%;
-  }
-  #pc-section .col-md-6{
-    float: left;
-    margin-bottom: 10px;
-    width: 100%;
-  }
-  #copy-section .col-md-6{
-    float: left;
-    margin-bottom: 10px;
-    width: 100%;
-  }
   #manlift-section .col-md-6{
     float: left;
     margin-bottom: 10px;
     width: 100%;
   }
-  #tmi-section .col-md-6{
+  #excavator-section .col-md-6{
     float: left;
     margin-bottom: 10px;
     width: 100%;
   }
+  #dozer-section .col-md-6{
+    float: left;
+    margin-bottom: 10px;
+    width: 100%;
+  }
+  #boom-section .col-md-6{
+    float: left;
+    margin-bottom: 10px;
+    width: 100%;
+  }
+
 
 }
 
