@@ -3,8 +3,8 @@ Rails.application.routes.draw do
   root 'home#index_qatar'
   post 'home/write'
 
-get 'home/index_qatar'
-get 'home/about_qatar'
-get 'home/product_qatar'
+  get 'home/index_qatar'
+  get 'home/about_qatar'
+  get 'home/product_qatar'
 
 end
