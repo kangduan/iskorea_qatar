@@ -55,20 +55,20 @@
   #about-section .col-md-4 {
       float: left;
       margin-bottom: 30px;
-      width: 33.3333%;
+      width: 32.5%;
   }
 
   /*Services*/
   #services-section .col-md-4 {
       float: left;
       margin-bottom: 30px;
-      width: 33.3333%;
+      width: 35%;
   }
   /*product-section*/
   #product-section .col-md-4{
     float: left;
     margin-bottom: 30px;
-    width: 33.3333%;
+    width: 32.5%;
   }
   #product-section .col-md-6{
     float: left;
