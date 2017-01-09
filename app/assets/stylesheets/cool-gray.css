@@ -137,13 +137,14 @@ a, a:hover, a:focus {
 
 
 
-/* === CTA Section, Social & Partners === */
+/* === CTA Section, Social & Partners ===
 #cta-section, #partners-section, #social-section, #mobilecrane-section, #forklift-section {
 	background: #efeded url('../../img/pat-bg.png') repeat;
-	/*#f8f8f8*/
+	/*#f8f8f8
 }
+*/
 /*Qatar product section*/
-#excavator-section, #boomtruck-section{
+#excavator-section, #boom-section{
 	background: #efeded url('../../img/pat-bg.png') repeat;
 	/*#f8f8f8*/
 }
